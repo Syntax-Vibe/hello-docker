@@ -13,9 +13,6 @@ hello-docker/
 ├── .github/workflows/ci.yml # GitHub Actions workflow
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
 ---
 
