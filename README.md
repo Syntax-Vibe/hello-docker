@@ -1,20 +1,9 @@
-# Simple Dockerized Python App
+# 🐳 Hello Docker
 
-This is a basic Python application that prints a message to the terminal, packaged inside a Docker container.
+A simple **Dockerized Python App** with CI/CD using **GitHub Actions**  
+This project is designed to demonstrate the basics of containerization and automation in a DevOps workflow.
 
-## How to Run
+---
 
-1. Build the Docker image:
-   ```
-   docker build -t hello-docker .
-   ```
+## 📁 Project Structure
 
-2. Run the container:
-   ```
-   docker run hello-docker
-   ```
-
-Expected Output:
-```
-Hello from inside a Docker container!
-```
