@@ -59,5 +59,5 @@ docker run hello-docker
 ---
 
 🧑‍💻 **Author**  
-**Syntax-Vibe-Amir**  
+**Syntax-Vibe**  
 GitHub: [github.com/Syntax-Vibe](https://github.com/Syntax-Vibe)
